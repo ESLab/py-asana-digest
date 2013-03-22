@@ -30,8 +30,11 @@ Python 2.7
 
 ## Author
 
-Frank Wickström
-Embedded Systems Laboratory at Åbo Akademi University
+Frank Wickstrï¿½m
+Embedded Systems Laboratory at ï¿½bo Akademi University
 
 ### License
 GPLv3 (more info in the LICENCE file)
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ea02113340d21dfa3f0c06292e75d32f "githalytics.com")](http://githalytics.com/ESLab/py-asana-digest)
