@@ -31,6 +31,7 @@ Python 2.7
 ## Author
 
 Frank Wickström
+
 Embedded Systems Laboratory at Åbo Akademi University
 
 ### License
