@@ -30,8 +30,8 @@ Python 2.7
 
 ## Author
 
-Frank Wickstr�m
-Embedded Systems Laboratory at �bo Akademi University
+Frank Wickström
+Embedded Systems Laboratory at Åbo Akademi University
 
 ### License
 GPLv3 (more info in the LICENCE file)
