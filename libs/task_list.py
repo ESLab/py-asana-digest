@@ -20,5 +20,8 @@ class TaskList():
     def users_of_tasks(self):
         return self.tasks
 
-    def num_tasks(self):
-        return len(self.tasks)
+    def num_tasks(self, user):
+        if self.tasks.get(user,False):
+            return len(self.tasks[user])
+        else:
+            return 0

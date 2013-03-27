@@ -101,6 +101,6 @@ class Task():
                                           project]['upcomming_tasks'].tasks_for(user['id']))
 
         for project in projects:
-            if projects[project]['unassigned_tasks'].num_tasks() > 0:
+            if projects[project]['unassigned_tasks'].num_tasks('unassigned') > 0:
                 self.render_tasks(project, None, 'unassigned_tasks', projects[
                     project]['unassigned_tasks'].tasks_for('unassigned'), color='red')
